@@ -1,0 +1,5 @@
+.d-flex-around {
+    display: flex;
+    justify-content: space-around !important;
+    flex-direction: row;
+}
